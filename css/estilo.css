@@ -57,6 +57,9 @@ nav.navbar-transparente{
     background-color: white;
     color: black;
 }
+.carousel-control-nest, carousel-control-prev{
+    width: 5%;
+}
 /*-------Estrutura de conteudos------*/
 #servicos{
     background: white;
